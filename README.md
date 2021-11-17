@@ -1,7 +1,8 @@
 # extra
 dam
 Callendar/To do:
-https://guides.codepath.com/android/Basic-Todo-App-Tutorial • http://www.java2s.com/Open-Source/Android_Free_Code/App/schedule/com_TechSect_TaskReminderAppRemindersDbAdapter_java.htm
+https://guides.codepath.com/android/Basic-Todo-App-Tutorial 
+● http://www.java2s.com/Open-Source/Android_Free_Code/App/schedule/com_TechSect_TaskReminderAppRemindersDbAdapter_java.htm
 2)Calculator app: https://www.geeksforgeeks.org/how-to-build-a-simple-calculator-app-using-android-studio/
 
 3)Order tracking app: https://github.com/cibofdevs/android-live-tracking-view/tree/master/app/src/main/java/io/hypertrack/livetrackingconsumer https://stackoverflow.com/questions/43318968/how-to-make-a-simple-tracking-android-app-using-android-studio
